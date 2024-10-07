@@ -1,6 +1,6 @@
 #Title
 
-It is a simmple frequently asked questions(faq) test for web development!
+It is a simple frequently asked questions(faq) test for web development!
 
 ##Subheader
 
